@@ -6,3 +6,4 @@ NYC Yoga Studios Archive was primarily built using a paid Omeka Classic subscrip
 Resources:
 http://omeka.net 
 https://nycyogastudiosarchive.art.blog 
+https://github.com/Daniel-KM/Omeka-plugin-CsvImportPlus#
